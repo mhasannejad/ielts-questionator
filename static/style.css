@@ -1,0 +1,14 @@
+a{
+    color: white !important;
+}
+
+
+.form-column{
+    min-height: 100%;
+    height: 700px !important;
+    border-right-style: dashed;
+    border-right-color: black;
+    border-right-width: 3px;
+    padding: 10px;
+
+}
